@@ -1,0 +1,4 @@
+interface:
+  display_name: "WKJ-PPT大纲-creator"
+  short_description: "按页策划清晰、可制作的 PPT 大纲"
+  default_prompt: "Use $wkj-ppt-outline-creator to create a page-by-page PPT outline from my topic, audience, goal, and source material."
